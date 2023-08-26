@@ -1,0 +1,13 @@
+Google Earth Engine Link used as analysis
+EVI Analysis
+https://code.earthengine.google.com/0d276dac6445dc12ba252dbd521f6273
+https://code.earthengine.google.com/1a5de1653dae6549186ecffaa23caadb
+
+Imagery Anaomalies
+https://code.earthengine.google.com/b2e67011995a1fe1d51e95deb1eb8fa4
+
+Rain Multiannual Monthly Analysis
+https://code.earthengine.google.com/3e91516492844266088f05583511f591
+
+SPEI Statistics
+https://code.earthengine.google.com/75ed6e112d0dd7a69c319dd3eea16536
